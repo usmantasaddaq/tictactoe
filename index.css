@@ -1,0 +1,78 @@
+.ContainerStyle {
+  background-color: hsl(186, 87%, 21%);
+  max-width: 40vw;
+  margin: auto;
+}
+
+/* CSS Code */
+/* Heading */
+h1 {
+  color: white;
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.childStyle {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-width: 24vw;
+  justify-content: center;
+
+  position: relative;
+  left: 120px;
+}
+/* 3*3 Grid */
+#b1,x1x
+#b2,
+#b3,
+#b4,
+#b5,
+#b6,
+#b7,
+#b8,
+#b9 {
+  width: 80px;
+  height: 52px;
+
+  border: 5px solid lightgray;
+
+  font-size: 30px;
+  text-align: center;
+}
+
+/* Reset Button */
+#but {
+  box-sizing: border-box;
+  width: 95px;
+  height: 40px;
+  border: none;
+  margin: auto;
+  border-radius: 4px;
+  font-family: Arial, Helvetica, sans-serif;
+
+  background-color: none;
+  color: black;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+/* Player turn space */
+#print {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  color: white;
+  font-size: 25px;
+}
+
+/* Main Container */
+#main {
+  text-align: center;
+}
+
+/* Game Instruction Text */
+#ins {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  color: white;
+  font-size: 17px;
+}
